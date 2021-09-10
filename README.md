@@ -9,4 +9,4 @@ The input is a directory with an arbitrary number of target characters as indivi
 Each image file represents a character to recognize.
 The second input is a gray scale test image containing characters to recognize.
 
-### This project was a part of the my coursework at University at Buffalo for the course Computer Vision and Image Processing.  
+### This project was a part of my coursework at University at Buffalo for the course Computer Vision and Image Processing.  
